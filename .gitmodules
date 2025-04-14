@@ -1,3 +1,6 @@
 [submodule "fe"]
 	path = fe
 	url = git@github.com:FadelYang/kanban-todo-fe.git
+[submodule "be"]
+	path = be
+	url = git@github.com:FadelYang/kanban-todo-be.git
