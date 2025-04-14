@@ -1,0 +1,3 @@
+[submodule "fe"]
+	path = fe
+	url = git@github.com:FadelYang/kanban-todo-fe.git
